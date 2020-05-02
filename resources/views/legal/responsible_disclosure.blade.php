@@ -18,7 +18,7 @@
                 <li>Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction of data during security testing;</li>
                 <li>Perform research only within the scope set out below; </li>
                 <li>Use the identified communication channels to report vulnerability information to us; and</li>
-                <li>Keep information about any vulnerabilities you’ve discovered confidential between yourself and DomeinDNS until we’ve had 90 days to resolve the issue.</li>
+                <li>Keep information about any vulnerabilities you’ve discovered confidential between yourself and PDNS until we’ve had 90 days to resolve the issue.</li>
             </ul>
 
             <p>If you follow these guidelines when reporting an issue to us, we commit to:</p>
@@ -30,10 +30,9 @@
 
             <h3>Scope</h3>
             <ul>
-                <li>https://domeindns.nl</li>
-                <li>https://app.domeindns.nl</li>
-                <li>Our DNS servers: ns1.domeindns.nl / ns2.domeindns.nl / ns3.domeindns.org</li>
-                <li>https://noc.domeindns.org</li>
+                <li>https://pdns.win</li>
+                <li>https://pdns.win</li>
+                <li>Our DNS servers: ns1.pdns.win / ns2.pdns.win </li>
             </ul>
 
             <h3>Out of scope</h3>
@@ -55,7 +54,7 @@
             </ul>
 
             <h3>How to report a security vulnerability?</h3>
-            If you believe you’ve found a security vulnerability in one of our products or platforms please send it to us by emailing info@domeindns.nl . Please include the following details with your report:</p>
+            If you believe you’ve found a security vulnerability in one of our products or platforms please send it to us by emailing info@pdns.win . Please include the following details with your report:</p>
 
             <ul>
                 <li>Description of the location and potential impact of the vulnerability</li>
