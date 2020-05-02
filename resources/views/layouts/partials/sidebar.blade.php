@@ -3,7 +3,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-globe"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">DomeinDNS</div>
+        <div class="sidebar-brand-text mx-3">PDNS</div>
     </a>
     <hr class="sidebar-divider my-0">
     <li class="nav-item">
