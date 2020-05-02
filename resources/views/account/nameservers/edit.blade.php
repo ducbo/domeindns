@@ -20,19 +20,13 @@
                             <div class="form-group row">
                                 <label class="col-sm-4 col-form-label">Nameserver 1</label>
                                 <div class="col-sm-8">
-                                    <input type="input" class="form-control{{ $errors->has('ns1') ? ' is-invalid' : '' }}" name="ns1" required value="{{ old('ns1') }}" placeholder="ns1.domeindns.nl">
+                                    <input type="input" class="form-control{{ $errors->has('ns1') ? ' is-invalid' : '' }}" name="ns1" required value="{{ old('ns1') }}" placeholder="ns1.pdns.win">
                                 </div>
                             </div>
                             <div class="form-group row">
                                 <label class="col-sm-4 col-form-label">Nameserver 2</label>
                                 <div class="col-sm-8">
-                                    <input type="input" class="form-control{{ $errors->has('ns2') ? ' is-invalid' : '' }}" name="ns2" required value="{{ old('ns2') }}" placeholder="ns2.domeindns.nl">
-                                </div>
-                            </div>
-                            <div class="form-group row">
-                                <label class="col-sm-4 col-form-label">Nameserver 3</label>
-                                <div class="col-sm-8">
-                                    <input type="input" class="form-control{{ $errors->has('ns3') ? ' is-invalid' : '' }}" name="ns3" required value="{{ old('ns3') }}" placeholder="ns3.domeindns.org">
+                                    <input type="input" class="form-control{{ $errors->has('ns2') ? ' is-invalid' : '' }}" name="ns2" required value="{{ old('ns2') }}" placeholder="ns2.pdns.win">
                                 </div>
                             </div>
                             <div class="form-group row">
