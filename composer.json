@@ -1,13 +1,13 @@
 {
     "name": "schneidersit/domeindns",
     "type": "project",
-    "description": "DomeinDNS app",
+    "description": "PDNS app",
     "keywords": [
         "domeindns",
         "powerdns",
         "laravel"
     ],
-    "homepage": "https://app.domeindns.nl",
+    "homepage": "https://pdns.win",
     "authors": [
         {
             "name": "Jelle Schneiders",
