@@ -20,7 +20,7 @@ class CheckBlockedUser
 
         if ($user && $user->is_blocked) {
             Auth::logout();
-            flash('Your account has been blocked. Please contact us at info@domeindns.nl')->error();
+            flash('Your account has been blocked. Please contact us at info@pdns.win')->error();
             return redirect('/login');
         }
 
