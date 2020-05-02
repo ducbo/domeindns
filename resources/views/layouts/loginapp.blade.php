@@ -5,16 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'DomeinDNS') }}</title>
+    <title>{{ config('app.name', 'PDNS') }}</title>
 
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 
     @include('layouts.partials.favicon')
 </head>
-<body class="bg-gradient-domeindns-light">
+<body class="bg-gradient-pdns-light">
 
-<div class="logo-domeindns"><i class="fas fa-globe"></i> DomeinDNS</div>
+<div class="logo-pdns"><i class="fas fa-globe"></i> PDNS</div>
 
 <div class="container">
 
