@@ -34,9 +34,9 @@ class CreateNameserversTable extends Migration
             [
                 'id' => Str::uuid(),
                 'default' => true,
-                'nameserver' => 'ns1.domeindns.nl',
-                'ipv4' => '159.69.91.103',
-                'ipv6' => '2a01:4f8:c2c:51f0::1',
+                'nameserver' => 'ns1.pdns.win',
+                'ipv4' => '139.99.56.58',
+                'ipv6' => '2402:1f00:8000:800:0:0:0:1149',
             ]
         );
 
@@ -44,19 +44,8 @@ class CreateNameserversTable extends Migration
             [
                 'id' => Str::uuid(),
                 'default' => true,
-                'nameserver' => 'ns2.domeindns.nl',
-                'ipv4' => '137.74.118.155',
-                'ipv6' => '2001:41d0:302:2200::1bc0',
-            ]
-        );
-
-        DB::table('nameservers')->insert(
-            [
-                'id' => Str::uuid(),
-                'default' => true,
-                'nameserver' => 'ns3.domeindns.org',
-                'ipv4' => '128.199.37.162',
-                'ipv6' => '2a03:b0c0:2:d0::3e6:2001',
+                'nameserver' => 'ns2.pdns.win',
+                'ipv4' => '51.79.128.186',
             ]
         );
     }
