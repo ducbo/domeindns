@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'DomeinDNS'),
+    'name' => env('APP_NAME', 'PDNS'),
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://domeindns.local'),
+    'url' => env('APP_URL', 'https://pdns.win'),
 
     'asset_url' => env('ASSET_URL', null),
 
