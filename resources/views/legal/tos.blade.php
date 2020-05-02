@@ -8,7 +8,7 @@
                         <p>Last updated: May 16, 2019</p>
 
 
-                        <p>Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://domeindns.nl website (the "Service") operated by DomeinDNS ("us", "we", or "our").</p>
+                        <p>Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://pdns.win website (the "Service") operated by PDNS ("us", "we", or "our").</p>
 
                         <p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p>
 
@@ -26,9 +26,9 @@
 
                         <h2>Links To Other Web Sites</h2>
 
-                        <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by DomeinDNS.</p>
+                        <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by PDNS.</p>
 
-                        <p>DomeinDNS has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that DomeinDNS shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
+                        <p>PDNS has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that PDNS shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
 
                         <p>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
 
@@ -62,6 +62,6 @@
 
                         <h2>Contact Us</h2>
 
-                        <p>If you have any questions about these Terms, please contact us at info@domeindns.nl .</p>
+                        <p>If you have any questions about these Terms, please contact us at info@pdns.win .</p>
                     </div>
 @endsection
