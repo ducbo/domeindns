@@ -1,6 +1,6 @@
 {
-    "name": "DomeinDNS",
-    "short_name": "DomeinDNS",
+    "name": "PDNS",
+    "short_name": "PDNS",
     "icons": [
         {
             "src": "/favicons/android-chrome-192x192.png",
