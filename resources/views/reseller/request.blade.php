@@ -10,7 +10,7 @@
                         <h6 class="m-0 font-weight-bold text-primary">Request reseller access</h6>
                     </div>
                     <div class="card-body">
-                        If you're a reseller of DomeinDNS you will receive unique features such as:
+                        If you're a reseller of PDNS you will receive unique features such as:
                         <ul>
                             <li>Creating sub-accounts</li>
                             <li>Unique sub-account dashboard</li>
